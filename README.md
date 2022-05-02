@@ -47,7 +47,7 @@ If you want a great shell that just works, this project is for you.
   can be made available within `ssh bar` and/or on the local machine.
 
 ## Installation
-
+ 
 Run this command in bash, zsh, or sh:
 
 ```shell
